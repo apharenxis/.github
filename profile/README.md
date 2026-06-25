@@ -2,7 +2,7 @@
 
 <img src="./assets/logos/apharenxis-networks-logo.png" alt="Apharenxis Networks logo" width="160">
 
-# Apharenxis Networks, Inc.
+# Apharenxis Networks, Inc. 
 
 ### IT as a Way of Life · Innovation as a Practice · Excellence as a Standard
 
