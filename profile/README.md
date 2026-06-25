@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logos/apharenxis-networks-logo.png" alt="Apharenxis Networks logo" width="160">
+<img src="../assets/logos/apharenxis-networks-logo.png" alt="Apharenxis Networks logo" width="160">
 
 # Apharenxis Networks, Inc. 
 
